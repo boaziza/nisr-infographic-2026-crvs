@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 requirements.txt
 PROJECT_BRIEF.md
+.vscode
