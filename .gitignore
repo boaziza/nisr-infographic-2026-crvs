@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.pyc
+requirements.txt
+PROJECT_BRIEF.md
