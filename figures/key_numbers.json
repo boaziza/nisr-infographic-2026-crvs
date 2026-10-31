@@ -1,0 +1,22 @@
+{
+  "birth_completeness_2025": 92.9,
+  "death_completeness_2025": 50.5,
+  "unrecorded_deaths_2025": 38521,
+  "unrecorded_per_day": 106,
+  "male_completeness_2025": 57.6,
+  "female_completeness_2025": 43.7,
+  "share_men_all_deaths": 49,
+  "share_men_recorded_deaths": 56,
+  "slope_all_years": 3.8,
+  "slope_recovery": 6.4,
+  "line_90_year": 2031,
+  "scurve_90_year": 2033,
+  "scurve_k": 0.2703,
+  "scurve_50_year": 2024.7,
+  "va_2022": 1889,
+  "va_2025": 18921,
+  "late_deaths_2022": 328,
+  "late_deaths_2025": 14517,
+  "rural_community_pct": 61.3,
+  "urban_community_pct": 41.4
+}
