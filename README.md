@@ -10,7 +10,8 @@ In 2025, **38,521 deaths went unrecorded**, about 106 a day.
 | File | What it is |
 |---|---|
 | [figures/poster_invisible_half.png](figures/poster_invisible_half.png) / [.pdf](figures/poster_invisible_half.pdf) | Static infographic (2400 × 3600 px) |
-| [figures/dynamic_invisible_half.html](figures/dynamic_invisible_half.html) | Dynamic infographic: Plotly animation, works offline in any browser |
+| [figures/dynamic_invisible_half.mp4](figures/dynamic_invisible_half.mp4) | Dynamic infographic (submitted): 41-second HD video, 1280 × 720 |
+| [figures/dynamic_invisible_half.html](figures/dynamic_invisible_half.html) | Interactive version of the same animation (Plotly), works offline in any browser |
 | [notebooks/analysis.ipynb](notebooks/analysis.ipynb) | All data loading, checks, maths and figures |
 | [figures/key_numbers.json](figures/key_numbers.json) | Every number quoted on the poster |
 
